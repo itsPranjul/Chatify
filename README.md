@@ -77,9 +77,6 @@ npm start
 ## 📝 Contributing
 Feel free to fork this project and contribute. Open a pull request with your changes!
 
-## 🛡️ License
-This project is licensed under the MIT License.
-
 ## 📞 Contact
 If you have any questions, feel free to reach out:
 - 📧 Email: pranjulit4708@gmail.com
