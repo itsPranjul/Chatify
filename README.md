@@ -63,8 +63,7 @@ npm start
 ```
 
 ## 🚀 Deployment
-- **Frontend** is deployed on Render: [Live Frontend](#)
-- **Backend** is deployed on Render: [Live Backend](#)
+- **Frontend && Backend** is deployed on Render: [Live](https://chatify-u02i.onrender.com/)
 - **Database** is hosted on MongoDB Atlas
 
 ## 📸 Screenshots
