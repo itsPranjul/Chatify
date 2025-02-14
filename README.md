@@ -41,8 +41,8 @@ npm install
 
 ### 3️⃣ Set Up Environment Variables
 Create a `.env` file in the backend directory and add:
-MONGO_URI = your_mongodb_url
 
+MONGO_URI = your_mongodb_url
 PORT=5001
 JWT_SECRET = your_secret_key
 CLOUDINARY_CLOUD_NAME = your_cloudinary_name
