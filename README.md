@@ -30,34 +30,37 @@ cd chatify
 ```
 ### 2️⃣ Install Dependencies
 #### Backend Setup
-
+```sh
 cd backend
 npm install
-
+```
 #### Frontend Setup
-
+```sh
 cd frontend
 npm install
-
+```
 ### 3️⃣ Set Up Environment Variables
 Create a `.env` file in the backend directory and add:
-
+```sh
 MONGO_URI = your_mongodb_url
 PORT=5001
 JWT_SECRET = your_secret_key
 CLOUDINARY_CLOUD_NAME = your_cloudinary_name
 CLOUDINARY_API_KEY = your_cloudinary_api
 CLOUDINARY_API_SECRET = your_cloudinary_api_secret
-
+```
 
 ### 4️⃣ Run the Application
 #### Start Backend Server
+```sh
 cd backend
 npm run dev
-
+```
 #### Start Frontend
+```sh
 cd frontend
 npm start
+```
 
 ## 🚀 Deployment
 - **Frontend** is deployed on Render: [Live Frontend](#)
