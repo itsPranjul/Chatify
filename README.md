@@ -1,7 +1,7 @@
 # CHATIFY - Real-Time Chatting Application
 
 ## 🚀 Live Demo
-[Click here to visit the deployed application](https://chatify-u02i.onrender.com/)
+[Chatify - Live demo](https://chatify-u02i.onrender.com/)
 
 ## 📌 Project Overview
 This is a real-time chatting application that allows users to communicate seamlessly. The application is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with WebSockets (Socket.io) for real-time messaging.
